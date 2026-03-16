@@ -1,8 +1,10 @@
-**End of semester project for "Advanced Quantitative & Qualitative Methods" course in the Msc Socio Ecological Economics & Policy (WU) 
-**
+# End of Semester Project  
+## Advanced Quantitative & Qualitative Methods  
+**MSc Socio-Ecological Economics & Policy (WU)**
 
-Annika Müller
-Filipa Reis
-Hanna Höppler
-Jardar Lindaas Bringedal
-Karla Röckener
+### Authors
+- Annika Müller
+- Filipa Reis
+- Hanna Höppler
+- Jardar Lindaas Bringedal
+- Karla Röckener
